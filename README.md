@@ -13,5 +13,5 @@
 
 # Preview
 
-![](https://raw.githubusercontent.com/RenatoLucasMota/PokeDex_MobX/master/Screenshot_1.png)
+![](https://raw.githubusercontent.com/RenatoLucasMota/CreditAccountApp/master/ezgif-3-4745a3c0aca9.gif)
 
